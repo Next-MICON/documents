@@ -1,0 +1,17 @@
+# スクラムとは
+- アジャイル型の開発手法の1つ、仕様変更に強い
+- [インクリメント](./what_is/what_is_increment.md)(必ず動作するデモ)を制作する、必ず一定の期間である[スプリント](./what_is/what_is_sprint.md)を繰り返してリリースまで開発していく方法。毎日[デイリースクラム](./what_is/what_is_daily_scrum.md)を行う
+## すること
+### 最初にすること
+- スクラム自体と、スクラムのイベントの意義の確認
+- [プロダクトバックログ](./what_is/what_is_product_backlog.md)の作成
+- [ロール](./what_is/what_is_roll.md)の決定
+- [開発チーム](./what_is/what_is_devteem.md)の決定
+- [スプリント](./what_is/what_is_sprint.md)の期間の決定
+- 最初の[スプリント](./what_is/what_is_sprint.md)の[スプリントプランニング](./what_is/what_is_sprint_planning.md)
+### 繰り返すこと
+- [スプリントプランニング](./what_is/what_is_sprint_planning.md)
+- [インクリメント](./what_is/what_is_increment.md)の作成
+- [デイリースクラム](./what_is/what_is_daily_scrum.md)の実施
+- [スプリントレビュー](./what_is/what_is_sprint_review.md)の実施
+- [スプリントレトロスペクティブ](./what_is/what_is_sprint_review.md)の実施
