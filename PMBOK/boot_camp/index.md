@@ -3,3 +3,4 @@ QCD(質・コスト・納期)を管理するためのプロジェクトマネジ
 ## 有用そうな考え
 - [プロジェクト憲章](./what_is/what_is_project_kensyou.md)
 - [プロジェクトマネジメント計画書](./what_is/what_is_promane_plan.md)
+- [プロジェクトマネジメント計画書](./what_is/what_is_promane_plan.md)によって作成されるプロジェクトマネジメント記述書/文書
