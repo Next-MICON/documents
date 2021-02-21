@@ -7,7 +7,7 @@
 - スクラム自体と、スクラムのイベントの意義の確認
 - [プロダクトバックログ](./what_is/what_is_product_backlog.md)の作成
 - [ロール](./what_is/what_is_roll.md)の決定
-- [開発チーム](./what_is/what_is_devteem.md)の決定
+- [開発チーム](./what_is/what_is_roll.md)の決定
 - [スプリント](./what_is/what_is_sprint.md)の期間の決定
 - 最初の[スプリント](./what_is/what_is_sprint.md)の[スプリントプランニング](./what_is/what_is_sprint_planning.md)
 ### 繰り返すこと
